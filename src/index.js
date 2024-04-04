@@ -3,6 +3,9 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import "primereact/resources/themes/lara-light-indigo/theme.css";
+// import "primereact/resources/themes/soho-light/theme.css";
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
